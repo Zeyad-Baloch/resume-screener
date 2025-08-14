@@ -1,6 +1,6 @@
 ## Resume Screener with Bias Detection
 
-This project implements a ** resume screening system** that combines **traditional NLP techniques** with **machine learning models** and **bias detection algorithms** to fairly evaluate candidates. It features an intuitive interface for HR professionals and recruiters.
+This project implements a resume screening system that combines **traditional NLP techniques** with **machine learning models** and **bias detection algorithms** to fairly evaluate candidates. It features an intuitive interface for HR professionals and recruiters.
 
 ---
 
