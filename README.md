@@ -70,7 +70,7 @@ The Resume Screener addresses critical challenges in modern recruitment:
 
 ### 1. Clone Repository
 ```
-git clone https://github.com/yourusername/resume-screener.git
+git clone https://github.com/Zeyad-Baloch/resume-screener.git
 cd resume-screener
 ```
 
